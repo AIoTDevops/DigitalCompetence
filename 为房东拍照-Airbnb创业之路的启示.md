@@ -15,9 +15,11 @@ Airbedandbreakfast.com（充气床垫和早饭）在2008年8月上线，2019年�
 
 在Airbnb的初创期，平台上只有大约30个房东在出租自己的房间（we had about 30 hosts），房东上传到平台的照片惨不忍睹。（our hosts didn’t have great photos of their listings）
 
+这30个房东中，可能没有摄影爱好者，他们不懂构图、光线、景深，不懂光圈、快门、ISO。2008年，手机的拍照功能也不像今天这么强大。
+
+
 房东用手机拍摄自己的房间，有的房东在晚上拍摄，房间因为没有合适的光线黯然失色。（using their camera phones or taking pictures at night and it wasn’t really presenting their homes in the best possible light）
 
-这30个房东中，可能没有摄影爱好者，他们不懂构图、光线、景深，不懂光圈、快门、ISO. 2008年，手机的拍照功能也不像今天这么强大。
 
 如果房东不能上传漂亮的房间照片，就不能吸引租客预定自己的房间，如果没有足够的
 租客，房东会逐渐放弃Airbnb这个平台。
