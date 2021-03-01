@@ -7,3 +7,5 @@ Barriers to entry
 5. Incumbency advantages independent of size.
 6. Unequal access to distribution channels.
 7. Restrictive government policy.
+
+
