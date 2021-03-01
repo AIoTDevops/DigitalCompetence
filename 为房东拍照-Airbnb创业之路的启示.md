@@ -21,7 +21,7 @@ Airbedandbreakfast.com（充气床垫和早饭）在2008年8月上线，2019年�
 房东用手机拍摄自己的房间，有的房东在晚上拍摄，房间因为没有合适的光线黯然失色。（using their camera phones or taking pictures at night and it wasn’t really presenting their homes in the best possible light）
 
 
-如果房东不能上传漂亮的房间照片，就不能吸引租客预定自己的房间，如果没有足够的
+如果房东不能上传漂亮的房间照片，就不能吸引租客预定自己的房间。如果没有足够的
 租客，房东会逐渐放弃Airbnb这个平台。
 
 毕业于罗德岛设计学院（Rhode Island School of Design）的创始人Brian Chesky和Joe Gebbia租了一台相机，开始拜访房东，给他们免费拍摄。（Brian and I would rent this really nice camera, and we would go door to door throughout Manhattan and Brooklyn taking photos of host properties for free.）
