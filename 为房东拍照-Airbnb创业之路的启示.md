@@ -3,9 +3,7 @@
 ![room](./airbnb/room.png)
 > Airbnb 房间照片
 
-Airbedandbreakfast.com（充气床垫和早饭）在2008年8月上线，这是Airbnb的第一个版本。
-
-2019年，Airbnb收入47亿美元。
+Airbedandbreakfast.com（充气床垫和早饭）在2008年8月上线，2019年，Airbnb收入47亿美元。
 
 12年时间，从创业公司，到1232亿美元（以2021年3月1日交易价格计算）市值的公司，Airbnb经历了快速的增长。
 
