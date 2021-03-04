@@ -2,7 +2,7 @@
 
 ## 第一次互联网泡沫-站在2021年回望
 
-![nasdaq](./print/nasdaq.png)
+![nasdaq](../img/print/nasdaq.png)
 > 第一次互联网泡沫  NASDAQ Composite  yahoo finance
 
 26年前，1995年1月，纳斯达克综合指数（NASDAQ Composite）755点。2000年2月，纳斯达克综合指数4696点。五年时间，纳斯达克综合指数上涨522%，更直观一点，1995年1月买入1美元纳斯达克综合指数ETF，五年后获得6.22美元。
@@ -16,21 +16,21 @@
 
 在2003年9月，荷兰出版巨头Wolters Kluwer的Nancy McKinstry升任CEO和董事会主席，开启了一段传奇的数字化转型之旅。
 
-![Nancy](./print/ceo2004.png)
+![Nancy](../img/print/ceo2004.png)
 >  Nancy McKinstry 2004
 
 
-![Nancy](./print/2021ceo.png)
+![Nancy](../img/print/2021ceo.png)
 > Nancy McKinstry 2019
 
 
 
 21世纪初，虽然资本市场对互联网的价值产生了质疑，但越来越多的传统企业在这次泡沫中认识了互联网，并开始思考如何利用互联网设计新的商业模式。
 
-![2004](./print/2004revenue.png)
+![2004](../img/print/2004revenue.png)
 >  2004年业务结构 
 
-![2019](./print/revenue.png)
+![2019](../img/print/revenue.png)
 > 2019年业务结构
 
 
@@ -42,7 +42,7 @@
 
 
 
-![transformation](./print/transformation.png)
+![transformation](../img/print/transformation.png)
 > 数字化转型之旅
 
 

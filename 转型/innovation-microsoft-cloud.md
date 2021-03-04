@@ -7,4 +7,4 @@
 2014年2月4日，Satya Nadella 就任微软CEO
 
 
-![STOCK](./microsoft/stock-annual.png)
+![STOCK](../img/microsoft/stock-annual.png)

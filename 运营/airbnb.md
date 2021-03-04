@@ -1,6 +1,6 @@
 # 帮房东拍照-Airbnb创业之路的启示
 
-![room](./airbnb/room.png)
+![room](../img/airbnb/room.png)
 > Airbnb 房间照片
 
 Airbedandbreakfast.com（充气床垫和早饭）在2008年8月上线，2019年，Airbnb收入47亿美元。
