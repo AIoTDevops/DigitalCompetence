@@ -23,6 +23,7 @@
 
 
 ## 来自替代品的威胁
+![5 forces](https://github.com/AIoTDevops/DigitalTransformationReference/blob/main/img/noodle/5_Forces.png)
 
 1979年 Michael E. Porter 首次提出了五力模型，29年后的2008年，Porter进一步解释了五力模型。
 
