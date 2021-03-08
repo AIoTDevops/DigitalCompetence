@@ -10,7 +10,18 @@
 > 然而，根据对调查问卷的统计分析，影响客户忠诚度的最重要三个因素却是：“产品质量(Product Quality)”、“专业性(Expertise)”和“快速响应(Responsiveness)”。
 
 ![10 value](https://github.com/AIoTDevops/DigitalTransformationReference/blob/main/img/hierarchy/WHICH_ELEMENTS.png)
-> IT产品采购，影响顾客忠诚度最重要的10个因素:产品质量（Product Quality），专业性（Expertise），快速响应（Responsiveness），希望（Hope），可整合（Integration），愿景（Vision），降低风险（Risk Reduction），文化（Cultural Fit），简化（Simplification），节省时间（Time Savings）
+> IT产品采购，影响顾客忠诚度最重要的10个因素
+> 
+> 1. 产品质量（Product Quality）
+> 2. 专业性（Expertise）
+> 3. 快速响应（Responsiveness）
+> 4. 希望（Hope）
+> 5. 可整合（Integration）
+> 6. 愿景（Vision）
+> 7. 降低风险（Risk Reduction）
+> 8. 文化契合（Cultural Fit）
+> 9. 简化（Simplification）
+> 10. 节省时间（Time Savings）
 
 同类的IT产品（如云计算平台）功能类似，看似难以实现差异化，主要的竞争方式是价格战。但是，统计分析的结果表明，在影响顾客忠诚度的因素中，成本因素甚至排不进前10名。
 
