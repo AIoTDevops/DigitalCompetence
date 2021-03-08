@@ -2,7 +2,7 @@
 
 ## 第一次互联网泡沫-站在2021年回望
 
-![nasdaq](../img/print/nasdaq.png)
+![nasdaq](https://github.com/AIoTDevops/DigitalTransformationReference/blob/main/img/print/nasdaq.png)
 > 第一次互联网泡沫  NASDAQ Composite  yahoo finance
 
 26年前，1995年1月，纳斯达克综合指数（NASDAQ Composite）755点。2000年2月，纳斯达克综合指数4696点。五年时间，纳斯达克综合指数上涨522%，更直观一点，1995年1月买入1美元纳斯达克综合指数ETF，五年后获得6.22美元。
