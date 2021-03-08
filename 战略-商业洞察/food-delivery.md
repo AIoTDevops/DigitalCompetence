@@ -1,6 +1,6 @@
 # 外卖平台与方便面 - 数字化时代的替代品威胁
 
-![noodle](../img/noodle/noodle.jpg)
+![noodle](https://github.com/AIoTDevops/DigitalTransformationReference/blob/main/img/noodle/noodle.jpg)
 > 外卖平台与方便面销量
 
 ## 红酒、咖啡与视频平台
@@ -45,7 +45,7 @@
 
 > 承欢侍宴无闲暇，春从春游夜专夜。后宫佳丽三千人，三千宠爱在一身。
 
-![noodle](../img/noodle/toutiao.png)
+![noodle](https://github.com/AIoTDevops/DigitalTransformationReference/blob/main/img/noodle/toutiao.png)
 > 移动互联网对用户时间的竞争
 
 
