@@ -62,6 +62,9 @@
 ## B2B客户需求金字塔
 ![maslow hierarchy](https://github.com/AIoTDevops/DigitalTransformationReference/blob/main/img/hierarchy/Maslow_Hierarchy_of_Needs.png)
 > 1943年，35岁的Abraham Maslow提出了人类需求的5层分层模型：生理需求、安全需求、爱与归属需求、尊严需求、自我实现需求
+
+
+
 ![b2b value pyramid](https://github.com/AIoTDevops/DigitalTransformationReference/blob/main/img/b2b-element-hierarchy/b2b.png)
 > B2B 价值金字塔
 > 
