@@ -23,7 +23,7 @@
 > 9. 简化（Simplification）
 > 10. 节省时间（Time Savings）
 
-同类的IT产品（如云计算平台）功能类似，看似难以实现差异化，主要的竞争方式是价格战。但是，统计分析的结果表明，在影响顾客忠诚度的因素中，成本因素甚至排不进前10名。
+同类的IT产品（如云计算平台）功能类似，看似难以实现差异化，主要的竞争维度是价格。但是，统计分析的结果表明，在影响顾客忠诚度的因素中，成本因素甚至排不进前10名。
 
 ## 量化客户忠诚度
 ![nps](https://github.com/AIoTDevops/DigitalTransformationReference/blob/main/img/hierarchy/measuring-your-nps.png)
