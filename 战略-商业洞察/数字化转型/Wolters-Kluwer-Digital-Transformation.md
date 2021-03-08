@@ -16,21 +16,21 @@
 
 在2003年9月，荷兰出版巨头Wolters Kluwer的Nancy McKinstry升任CEO和董事会主席，开启了一段传奇的数字化转型之旅。
 
-![Nancy](../img/print/ceo2004.png)
+![Nancy](https://github.com/AIoTDevops/DigitalTransformationReference/blob/main/img/print/ceo2004.png)
 >  Nancy McKinstry 2004
 
 
-![Nancy](../img/print/2021ceo.png)
+![Nancy](https://github.com/AIoTDevops/DigitalTransformationReference/blob/main/img/print/2021ceo.png)
 > Nancy McKinstry 2019
 
 
 
 21世纪初，虽然资本市场对互联网的价值产生了质疑，但越来越多的传统企业在这次泡沫中认识了互联网，并开始思考如何利用互联网设计新的商业模式。
 
-![2004](../img/print/2004revenue.png)
+![2004](https://github.com/AIoTDevops/DigitalTransformationReference/blob/main/img/print/2004revenue.png)
 >  2004年业务结构 
 
-![2019](../img/print/revenue.png)
+![2019](https://github.com/AIoTDevops/DigitalTransformationReference/blob/main/img/print/revenue.png)
 > 2019年业务结构
 
 
@@ -42,7 +42,7 @@
 
 
 
-![transformation](../img/print/transformation.png)
+![transformation](https://github.com/AIoTDevops/DigitalTransformationReference/blob/main/img/print/transformation.png)
 > 数字化转型之旅
 
 
