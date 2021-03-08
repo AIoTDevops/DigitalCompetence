@@ -9,9 +9,11 @@
 ![10 value](https://github.com/AIoTDevops/DigitalTransformationReference/blob/main/img/hierarchy/WHICH_ELEMENTS.png)
 > IT产品采购，影响顾客忠诚度最重要的10个因素:产品质量（Product Quality），专业性（Expertise），快速响应（Responsiveness），希望（Hope），可整合（Integration），愿景（Vision），降低风险（Risk Reduction），文化（Cultural Fit），简化（Simplification），节省时间（Time Savings）
 
-同类的IT产品（如云计算平台）功能类似，看似难以实现差异化，主要的竞争方式就是价格战。但是，统计分析的结果表明，在影响顾客忠诚度的因素中，成本因素甚至排不进前10名。
+同类的IT产品（如云计算平台）功能类似，看似难以实现差异化，主要的竞争方式是价格战。但是，统计分析的结果表明，在影响顾客忠诚度的因素中，成本因素甚至排不进前10名。
 
 ## 量化客户忠诚度
+![nps](https://github.com/AIoTDevops/DigitalTransformationReference/blob/main/img/hierarchy/measuring-your-nps.png)
+
 
 对于客户忠诚度(Customer Loyalty)的一个量化指标是净推荐值(Net Promoter Score)。
 > 如果你非常希望把一个产品推荐给自己的朋友，你为这个产品打10分。
@@ -19,26 +21,31 @@
 > 如果30%的人打分是9分或者10分，10%的人打分是0分到6分，那么这个产品的净推荐值就是20%
 > Net Promoter Score = 30% - 10% = 20%
 
-## 40个为客户创造价值的维度
+## 36个为客户创造价值的维度
 
-贝恩咨询定义了40个为客户创造价值的维度。其中的4个维度是供应商需要为客户创造的最基本价值，如果这4个维度不能让客户满意，那么供应商将无法生存。可以认为，目前的市场参与者，在这4个维度，都已经达到了较高的水平。那么，影响顾客忠诚度的，就是剩余的36个维度。
+![value and loyalty](https://github.com/AIoTDevops/DigitalTransformationReference/blob/main/img/hierarchy/MORE_VALUE.png)
 
-对于一个供应商，在1050个企业决策者中，如果超过65%的被访者认为某一个价值维度的得分超过8（分值从0到10），就可以认为，这个供应商在这个维度上是胜出的。
+贝恩咨询定义了40个为客户创造价值的维度。其中的4个维度是供应商需要为客户创造的最基本价值，如果这4个维度不能让客户满意，那么供应商将无法生存。可以认为，目前的市场参与者，在这4个维度，都已经达到了较高的水平。
 
-统计分析表明，如果一个供应商能够有超过6个维度胜出，那么这个供应商可以获得34%的净推荐值（Net Promoter Score）和43%的复购意向。
+因此，影响顾客忠诚度的，是剩余的36个维度。
+
+统计分析表明，在36个价值创造的维度中，如果一个供应商能够有超过6个维度胜出，那么这个供应商可以获得34%的净推荐值（Net Promoter Score）和43%的复购意向。
 
 如果一个供应商没有一个维度可以胜出，那么净推荐值和复购意向分别是6%和21%
+
+> 在1050个企业决策者中，如果超过65%的被访者认为，对于某一个供应商，某一个价值维度的得分超过8（分值从0到10），那么这个供应商在这个维度上是胜出的。
+
 
 一个企业不可能在所有36个维度中都胜过竞争对手，但应该争取在尽量多的维度胜出，胜出的维度越多，客户忠诚度就越高。
 
 > 在对10家IT产品供应商的调查中，微软的Azure云计算平台有20个维度胜出，Azure也获得了最高的净推荐值。
 
-
 ## B2B客户需求金字塔
+![maslow hierarchy](https://github.com/AIoTDevops/DigitalTransformationReference/blob/main/img/hierarchy/Maslow_Hierarchy_of_Needs.png)
 > 1943年，35岁的Abraham Maslow提出了人类需求的5层分层模型：生理需求、安全需求、爱与归属需求、尊严需求、自我实现需求
 ![b2b value pyramid](https://github.com/AIoTDevops/DigitalTransformationReference/blob/main/img/b2b-element-hierarchy/b2b.png)
 > B2B 价值金字塔
-> “The B2B Elements of Value”, Harvard Business Review
+> The B2B Elements of Value
 
 
 企业客户的需求也可以分层来看：基础需求（Table Stakes），功能性需求（Functional Value），降低业务难度的需求（Ease of Doing Business Value），决策者个人需求（Individual Value），精神需求（Inspirational Value）
@@ -65,10 +72,14 @@
 
 在更高层次（Inspirational Value），企业级客户需要愿景（Vision），希望（Hope），社会责任（Socail Responsibility）。
 
+> 对于IT产品，影响顾客忠诚度的前10个维度中，有7个价值维度属于“降低业务难度”方面的价值，2个属于精神层面的价值，1个属于功能性的价值。
 
+## 客户需求与价值创造金字塔
 
 客户需求的金字塔，也是价值创造的金字塔。产品设计和产品运营，需要在多个价值维度上，为客户创造价值，满足客户的需求，从而提高客户的忠诚度。
 
 
-> 参考资料：Eric Almquist, Jamie Cleghorn, Lori Sherer（2018），“The B2B Elements of Value”，  Harvard Business Review
+
+
+> 参考资料：Eric Almquist, Jamie Cleghorn, Lori Sherer（2018），The B2B Elements of Value，  Harvard Business Review
 
