@@ -125,10 +125,8 @@
 ## 智能技术
 
 >	苏州美能华智能科技有限公司
-
 >    自然语言处理技术服务提供商
-
- >   	https://www.meinenghua.com/
+>   	https://www.meinenghua.com/
 
 
 
