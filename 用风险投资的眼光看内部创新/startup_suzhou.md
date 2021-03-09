@@ -1,3 +1,5 @@
+## 工业互联网
+
 > 苏州慧工云信息科技有限公司
 > 工业软件产品及智能制造整体解决方案服务商
 > http://www.industics.com/
@@ -35,21 +37,98 @@
 
 
 
+> 	苏州盖雅信息技术有限公司
+> 劳动力管理软件云服务商
+> http://www.gaiaworks.cn/
 
 
+
+## 技术平台
+
+
+> 苏州渠成易销网络科技有限公司
+> PaaS平台研发商
+> 	http://www.successchannel.com/
+
+
+
+> 苏州市龙测智能科技有限公司
+> 智能软件测试SaaS平台提供商
+> http://www.dragontesting.com
+
+
+
+
+> 苏州汉明科技有限公司
+> WiFi硬件与软件中间件提供商
+> http://www.hanmingtech.com/
+
+
+
+> 	天聚地合(苏州)数据股份有限公司
+> API数据服务提供商
+> https://www.juhe.cn/
+
+
+
+> 纸巾帮(苏州)科技有限公司
+> 5G微基站及广告投放服务商
+> http://www.zhijinbang.com/
+
+
+> 	苏州博纳讯动软件有限公司
+> 企业级PaaS解决方案提供商
+> 	http://www.beyondcent.com
+
+
+
+> 	苏州融卡智能科技有限公司
+> 	数据安全产品及解决方案提供商
+> 	http://www.rongcard.com
+
+
+
+> 苏州踪视通信息技术有限公司
+> 	家庭安全服务提供商
+> http://www.trackview.net/
+
+
+
+> 苏州棱镜七彩信息科技有限公司
+> 源代码安全评估平台
+> http://7-cai.com
+
+> 苏州核数聚信息科技有限公司
+> 人工智能数据服务商
+
+> 苏州开心盒子软件有限公司
+> 移动应用开发商
+> 	http://www.aunbox.cn
+
+
+
+## 零售
+
+> 苏州易卖东西信息技术有限公司
+> 	电商运营及数字零售解决方案供应商
+> 	http://www.ecmax.cn/
+
+
+
+> 	苏州万店掌网络科技有限公司
+> 连锁企业门店远程监督服务提供商
+> 	http://www.ovopark.com
+
+
+
+
+## 智能技术
 
 >	苏州美能华智能科技有限公司
 
 >    自然语言处理技术服务提供商
 
  >   	https://www.meinenghua.com/
-
-    
-
-
-
-
-
 
 
 
@@ -75,16 +154,8 @@
 
 
 
-> 	苏州盖雅信息技术有限公司
-> 劳动力管理软件云服务商
-> http://www.gaiaworks.cn/
 
 
-
-
-> 苏州渠成易销网络科技有限公司
-> PaaS平台研发商
-> 	http://www.successchannel.com/
 
 
 > 苏州中亿丰科技有限公司
@@ -92,35 +163,13 @@
 > http://www.zyfkeji.com/index.asp
 
 
-> 苏州市龙测智能科技有限公司
-> 智能软件测试SaaS平台提供商
-> http://www.dragontesting.com
-
-
-> 苏州汉明科技有限公司
-> WiFi硬件与软件中间件提供商
-> http://www.hanmingtech.com/
-
 
 > 	苏州智铸通信科技股份有限公司
 > 	移动通信技术解决方案服务商
 > http://www.spideradio.cn/
 
 
-> 	天聚地合(苏州)数据股份有限公司
-> API数据服务提供商
-> https://www.juhe.cn/
 
-
-
-> 纸巾帮(苏州)科技有限公司
-> 5G微基站及广告投放服务商
-> http://www.zhijinbang.com/
-
-
-> 	苏州博纳讯动软件有限公司
-> 企业级PaaS解决方案提供商
-> 	http://www.beyondcent.com
 
 > 苏州腾邦科技有限公司
 > 	智慧教育提供商
@@ -143,14 +192,7 @@
 
 
 
-> 苏州易卖东西信息技术有限公司
-> 	电商运营及数字零售解决方案供应商
-> 	http://www.ecmax.cn/
 
-
-> 	苏州融卡智能科技有限公司
-> 	数据安全产品及解决方案提供商
-> 	http://www.rongcard.com
 
 
 > 	苏州海莫数据科技有限公司
@@ -158,15 +200,7 @@
 > 	http://www.heimaohui.com/
 
 
-> 	苏州万店掌网络科技有限公司
-> 连锁企业门店远程监督服务提供商
-> 	http://www.ovopark.com
 
-
-
-> 苏州开心盒子软件有限公司
-> 移动应用开发商
-> 	http://www.aunbox.cn
 
 
 > 苏州蛟视智能科技有限公司
@@ -185,9 +219,6 @@
 > http://locusx.com
 
 
-> 苏州核数聚信息科技有限公司
-> 人工智能数据服务商
-
 
 
 > 中交千方信息科技(苏州)有限公司
@@ -200,16 +231,6 @@
 > 	http://www.huluip.tech/
 
 
-
-> 苏州踪视通信息技术有限公司
-> 	家庭安全服务提供商
-> http://www.trackview.net/
-
-
-
-> 苏州棱镜七彩信息科技有限公司
-> 源代码安全评估平台
-> http://7-cai.com
 
 
 
