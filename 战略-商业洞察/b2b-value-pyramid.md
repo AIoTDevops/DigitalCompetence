@@ -75,7 +75,7 @@
 
 ### 基础需求（Table Stakes）
 
-以一个*1.合理的价格（Acceptable Price）*提供*2.满足要求的产品（Meeting Specifications）*，并且*3.符合政府规定（Regulatory Compliance）*和*4.道德标准（Ethical Standards）*是最基本的4个需求。满足客户的这4个需求（Table Stakes），是所有参与商业竞争的企业必须要做到的。
+以一个**1.合理的价格（Acceptable Price）**提供**2.满足要求的产品（Meeting Specifications）**，并且**3.符合政府规定（Regulatory Compliance）**和**4.道德标准（Ethical Standards）**是最基本的4个需求。满足客户的这4个需求（Table Stakes），是所有参与商业竞争的企业必须要做到的。
 
 ### 功能性需求（Functional Value）
 
@@ -100,7 +100,7 @@
 
 对于决策者，从个人的需求角度（Personal），需要*31.良好的设计和美感（Design & Aesthetics）*，*32.成长性（Growth & Development）*，*33.降低焦虑感（Reduced Anxiety）*，*34.有趣（Fun & Perks）*。
 
-从决策者的职业发展角度（Career），需要*35.扩展社交网络（Network Expansion）*，_36.适销（Marketability）_，*37.声誉保证（Reputational Assurance）*
+从决策者的职业发展角度（Career），需要*35.扩展社交网络（Network Expansion）*，*36.适销（Marketability）*，*37.声誉保证（Reputational Assurance）*
 
 > B2B采购中的*33.降低焦虑感（Reduced Anxiety）*和*37.声誉保证（Reputational Assurance）*是重要的影响因素。
 
