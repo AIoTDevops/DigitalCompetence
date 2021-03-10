@@ -100,7 +100,7 @@
 
 对于决策者，从个人的需求角度（Personal），需要*31.良好的设计和美感（Design & Aesthetics）*，*32.成长性（Growth & Development）*，*33.降低焦虑感（Reduced Anxiety）*，*34.有趣（Fun & Perks）*。
 
-从决策者的职业发展角度（Career），需要*35.扩展社交网络（Network Expansion）*，*36.适销（Marketability）*，*37.声誉保证（Reputational Assurance）*
+从决策者的职业发展角度（Career），需要*35.扩展社交网络（Network Expansion）*，_36.适销（Marketability）_，*37.声誉保证（Reputational Assurance）*
 
 > B2B采购中的*33.降低焦虑感（Reduced Anxiety）*和*37.声誉保证（Reputational Assurance）*是重要的影响因素。
 
