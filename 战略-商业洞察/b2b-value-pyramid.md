@@ -79,20 +79,20 @@
 
 ### 功能性需求（Functional Value）
 
-企业级客户对供应商的产品还有功能性的需求（Functional Value），在经济层面（Economic），需要*5.提高收入（Improved Top Line）*，*6.降低成本（Cost Reduction）*。
+企业级客户对供应商的产品还有功能性的需求（Functional Value），在经济层面（Economic），需要 **5.提高收入（Improved Top Line）** ， **6.降低成本（Cost Reduction）** 。
 
-在产品表现层面（Performance），需要*7.高质量的产品（Product Quality）*，*8.产品可扩展（Scalability）*，*9.产品创新（Innovation）*。
+在产品表现层面（Performance），需要**7.高质量的产品（Product Quality）** ，**8.产品可扩展（Scalability）**，**9.产品创新（Innovation）**。
 
 
 ### 降低业务难度的需求（Ease of Doing Business Value）
 
-企业级客户需要采购产品和服务来降低业务难度（Ease of Doing Business Value）。在生产效率层面（Productivity），需要*10.节省时间（Time Saving）*，*11.降低投入（Reduced Effort）*，*12.减少麻烦（Decreased Hassles）*，*13.提供信息（Information）*，*14.业务透明（Transparency）*。
+企业级客户需要采购产品和服务来降低业务难度（Ease of Doing Business Value）。在生产效率层面（Productivity），需要**10.节省时间（Time Saving）**，**11.降低投入（Reduced Effort）**，**12.减少麻烦（Decreased Hassles）**，**13.提供信息（Information）**，**14.业务透明（Transparency）**。
 
-在运营层面（Operational），需要在*15.组织架构（Organization）*，*16.简化（Simplification）*，*17.互联互通（Connection）*，*18.整合（Integration）*上有所提升。
+在运营层面（Operational），需要在**15.组织架构（Organization）**，**16.简化（Simplification）**，**17.互联互通（Connection）**，**18.整合（Integration）**上有所提升。
 
-在使用产品时（Access），需要在*19.可用性（Availability）*，*20.多样化（Variety）*，*21.可配置性（Configurability）*上得到更好的服务。
+在使用产品时（Access），需要在**19.可用性（Availability）**，**20.多样化（Variety）**，**21.可配置性（Configurability）**上得到更好的服务。
 
-在客户关系层面（Relationship），需要*22.及时响应（Responsiveness）*，*23.专业（Expertise）*，*24.承诺（Commitment）*，*25.稳定（Stability）*，*26.文化契合（Cultural Fit）*。
+在客户关系层面（Relationship），需要**22.及时响应（Responsiveness）**，**23.专业（Expertise）**，**24.承诺（Commitment）**，**25.稳定（Stability）**，**26.文化契合（Cultural Fit）**。
 
 在战略层面（Strategic），需要*27.降低风险（Risk Reduction）*，*28.可触达（Reach）*，*29.灵活（Flexibility）*，*30.组件质量高（Component Quality）*。
 
