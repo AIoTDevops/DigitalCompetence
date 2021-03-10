@@ -75,7 +75,7 @@
 
 ### 基础需求（Table Stakes）
 
-以一个**1.合理的价格（Acceptable Price）**提供**2.满足要求的产品（Meeting Specifications）**，并且**3.符合政府规定（Regulatory Compliance）**和**4.道德标准（Ethical Standards）**是最基本的4个需求。满足客户的这4个需求（Table Stakes），是所有参与商业竞争的企业必须要做到的。
+以一个**1.合理的价格（Acceptable Price）** 提供 **2.满足要求的产品（Meeting Specifications）**，并且 **3.符合政府规定（Regulatory Compliance）** 和 **4.道德标准（Ethical Standards）** 是最基本的4个需求。满足客户的这4个需求（Table Stakes），是所有参与商业竞争的企业必须要做到的。
 
 ### 功能性需求（Functional Value）
 
